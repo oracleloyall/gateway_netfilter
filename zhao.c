@@ -1,4 +1,4 @@
-/* lwfw.c */
+
 #include <linux/module.h>
 #include <linux/kernel.h>
 #include <linux/net.h>
